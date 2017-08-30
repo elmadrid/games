@@ -1,0 +1,1 @@
+<img src="<?php echo $setting['site_url'];?>/templates/tgtgenesis/images/160ad.png" width="160" height="600" border="0" alt="" />
